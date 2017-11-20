@@ -19,7 +19,7 @@
 # 5.important .py[重要的Python文件]
 `position.py`
 
-#6.how to[怎么执行]
+# 6.how to[怎么执行]
 >* chmod +x position.py;./position.py
 >* python3 position.py
 
